@@ -20,4 +20,4 @@ For this input the program will give the following output:
 11100
 11111
 
-the first columns is value for 1, second for 2 and so on.
+the first column is value for 1, second for 2 and so on.
